@@ -9,7 +9,7 @@ var map = new ol.Map({
 });
 
 //initial view - epsg:3857 coordinates if not "Match project CRS"
-map.getView().fit([9216606.971254, 3359514.221071, 9339490.531126, 3450221.551657], map.getSize());
+map.getView().fit([9058430.193002, 3242590.993515, 9420605.278681, 3509932.981824], map.getSize());
 
 ////small screen definition
     var hasTouchScreen = map.getViewport().classList.contains('ol-touch');
@@ -437,7 +437,7 @@ var Title = new ol.control.Control({
     element: (() => {
         var titleElement = document.createElement('div');
         titleElement.className = 'top-right-title ol-control';
-        titleElement.innerHTML = '<h2 class="project-title">Dolpo 2</h2>';
+        titleElement.innerHTML = '<h2 class="project-title">Upper Dolpo to Jomsom GHT Trek</h2>';
         return titleElement;
     })(),
     target: 'top-right-container'
