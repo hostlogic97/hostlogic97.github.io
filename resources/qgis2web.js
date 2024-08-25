@@ -4,7 +4,7 @@ var map = new ol.Map({
     renderer: 'canvas',
     layers: layersList,
     view: new ol.View({
-        extent: [9058430.193002, 3242590.993515, 9420605.278681, 3509932.981824], maxZoom: 28, minZoom: 1
+         maxZoom: 28, minZoom: 1
     })
 });
 
@@ -437,7 +437,7 @@ var Title = new ol.control.Control({
     element: (() => {
         var titleElement = document.createElement('div');
         titleElement.className = 'top-right-title ol-control';
-        titleElement.innerHTML = '<h2 class="project-title">Dolpo 2</h2>';
+        titleElement.innerHTML = '<h2 class="project-title">Upper Dolpo to Jomsom GHT Trek</h2>';
         return titleElement;
     })(),
     target: 'top-right-container'
