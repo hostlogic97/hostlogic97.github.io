@@ -37,7 +37,7 @@ var lyr_240520tracks_2 = new ol.layer.Vector({
                 source:jsonSource_240520tracks_2, 
                 style: style_240520tracks_2,
                 popuplayertitle: "240520tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240520tracks_2.png" /> 240520tracks'
             });
 var format_240521tracks_3 = new ol.format.GeoJSON();
@@ -52,7 +52,7 @@ var lyr_240521tracks_3 = new ol.layer.Vector({
                 source:jsonSource_240521tracks_3, 
                 style: style_240521tracks_3,
                 popuplayertitle: "240521tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240521tracks_3.png" /> 240521tracks'
             });
 var format_240522tracks_4 = new ol.format.GeoJSON();
@@ -67,7 +67,7 @@ var lyr_240522tracks_4 = new ol.layer.Vector({
                 source:jsonSource_240522tracks_4, 
                 style: style_240522tracks_4,
                 popuplayertitle: "240522tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240522tracks_4.png" /> 240522tracks'
             });
 var format_240523tracks_5 = new ol.format.GeoJSON();
@@ -82,7 +82,7 @@ var lyr_240523tracks_5 = new ol.layer.Vector({
                 source:jsonSource_240523tracks_5, 
                 style: style_240523tracks_5,
                 popuplayertitle: "240523tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240523tracks_5.png" /> 240523tracks'
             });
 var format_240525tracks_6 = new ol.format.GeoJSON();
@@ -97,7 +97,7 @@ var lyr_240525tracks_6 = new ol.layer.Vector({
                 source:jsonSource_240525tracks_6, 
                 style: style_240525tracks_6,
                 popuplayertitle: "240525tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240525tracks_6.png" /> 240525tracks'
             });
 var format_240526tracks_7 = new ol.format.GeoJSON();
@@ -112,7 +112,7 @@ var lyr_240526tracks_7 = new ol.layer.Vector({
                 source:jsonSource_240526tracks_7, 
                 style: style_240526tracks_7,
                 popuplayertitle: "240526tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240526tracks_7.png" /> 240526tracks'
             });
 var format_240527tracks_8 = new ol.format.GeoJSON();
@@ -127,7 +127,7 @@ var lyr_240527tracks_8 = new ol.layer.Vector({
                 source:jsonSource_240527tracks_8, 
                 style: style_240527tracks_8,
                 popuplayertitle: "240527tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240527tracks_8.png" /> 240527tracks'
             });
 var format_240528tracks_9 = new ol.format.GeoJSON();
@@ -142,7 +142,7 @@ var lyr_240528tracks_9 = new ol.layer.Vector({
                 source:jsonSource_240528tracks_9, 
                 style: style_240528tracks_9,
                 popuplayertitle: "240528tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240528tracks_9.png" /> 240528tracks'
             });
 var format_240529tracks_10 = new ol.format.GeoJSON();
@@ -157,7 +157,7 @@ var lyr_240529tracks_10 = new ol.layer.Vector({
                 source:jsonSource_240529tracks_10, 
                 style: style_240529tracks_10,
                 popuplayertitle: "240529tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240529tracks_10.png" /> 240529tracks'
             });
 var format_240530tracks_11 = new ol.format.GeoJSON();
@@ -172,7 +172,7 @@ var lyr_240530tracks_11 = new ol.layer.Vector({
                 source:jsonSource_240530tracks_11, 
                 style: style_240530tracks_11,
                 popuplayertitle: "240530tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240530tracks_11.png" /> 240530tracks'
             });
 var format_240531tracks_12 = new ol.format.GeoJSON();
@@ -187,7 +187,7 @@ var lyr_240531tracks_12 = new ol.layer.Vector({
                 source:jsonSource_240531tracks_12, 
                 style: style_240531tracks_12,
                 popuplayertitle: "240531tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240531tracks_12.png" /> 240531tracks'
             });
 var format_240601tracks_13 = new ol.format.GeoJSON();
@@ -202,7 +202,7 @@ var lyr_240601tracks_13 = new ol.layer.Vector({
                 source:jsonSource_240601tracks_13, 
                 style: style_240601tracks_13,
                 popuplayertitle: "240601tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240601tracks_13.png" /> 240601tracks'
             });
 var format_240602tracks_14 = new ol.format.GeoJSON();
@@ -217,7 +217,7 @@ var lyr_240602tracks_14 = new ol.layer.Vector({
                 source:jsonSource_240602tracks_14, 
                 style: style_240602tracks_14,
                 popuplayertitle: "240602tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240602tracks_14.png" /> 240602tracks'
             });
 var format_240603tracks_15 = new ol.format.GeoJSON();
@@ -232,7 +232,7 @@ var lyr_240603tracks_15 = new ol.layer.Vector({
                 source:jsonSource_240603tracks_15, 
                 style: style_240603tracks_15,
                 popuplayertitle: "240603tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240603tracks_15.png" /> 240603tracks'
             });
 var format_240604tracks_16 = new ol.format.GeoJSON();
@@ -247,7 +247,7 @@ var lyr_240604tracks_16 = new ol.layer.Vector({
                 source:jsonSource_240604tracks_16, 
                 style: style_240604tracks_16,
                 popuplayertitle: "240604tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240604tracks_16.png" /> 240604tracks'
             });
 var format_240605tracks_17 = new ol.format.GeoJSON();
@@ -262,7 +262,7 @@ var lyr_240605tracks_17 = new ol.layer.Vector({
                 source:jsonSource_240605tracks_17, 
                 style: style_240605tracks_17,
                 popuplayertitle: "240605tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240605tracks_17.png" /> 240605tracks'
             });
 var format_240606tracks_18 = new ol.format.GeoJSON();
@@ -277,7 +277,7 @@ var lyr_240606tracks_18 = new ol.layer.Vector({
                 source:jsonSource_240606tracks_18, 
                 style: style_240606tracks_18,
                 popuplayertitle: "240606tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240606tracks_18.png" /> 240606tracks'
             });
 var format_240607tracks_19 = new ol.format.GeoJSON();
@@ -292,7 +292,7 @@ var lyr_240607tracks_19 = new ol.layer.Vector({
                 source:jsonSource_240607tracks_19, 
                 style: style_240607tracks_19,
                 popuplayertitle: "240607tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240607tracks_19.png" /> 240607tracks'
             });
 var format_240609tracks_20 = new ol.format.GeoJSON();
@@ -307,7 +307,7 @@ var lyr_240609tracks_20 = new ol.layer.Vector({
                 source:jsonSource_240609tracks_20, 
                 style: style_240609tracks_20,
                 popuplayertitle: "240609tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240609tracks_20.png" /> 240609tracks'
             });
 var format_240610tracks_21 = new ol.format.GeoJSON();
@@ -322,7 +322,7 @@ var lyr_240610tracks_21 = new ol.layer.Vector({
                 source:jsonSource_240610tracks_21, 
                 style: style_240610tracks_21,
                 popuplayertitle: "240610tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240610tracks_21.png" /> 240610tracks'
             });
 var format_240611tracks_22 = new ol.format.GeoJSON();
@@ -337,7 +337,7 @@ var lyr_240611tracks_22 = new ol.layer.Vector({
                 source:jsonSource_240611tracks_22, 
                 style: style_240611tracks_22,
                 popuplayertitle: "240611tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240611tracks_22.png" /> 240611tracks'
             });
 var format_240612tracks_23 = new ol.format.GeoJSON();
@@ -352,7 +352,7 @@ var lyr_240612tracks_23 = new ol.layer.Vector({
                 source:jsonSource_240612tracks_23, 
                 style: style_240612tracks_23,
                 popuplayertitle: "240612tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240612tracks_23.png" /> 240612tracks'
             });
 var format_240613tracks_24 = new ol.format.GeoJSON();
@@ -367,7 +367,7 @@ var lyr_240613tracks_24 = new ol.layer.Vector({
                 source:jsonSource_240613tracks_24, 
                 style: style_240613tracks_24,
                 popuplayertitle: "240613tracks",
-                interactive: false,
+                interactive: true,
                 title: '<img src="styles/legend/240613tracks_24.png" /> 240613tracks'
             });
 var format_campsites_25 = new ol.format.GeoJSON();
@@ -448,7 +448,7 @@ lyr_240525tracks_6.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'd
 lyr_240526tracks_7.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_240527tracks_8.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_240528tracks_9.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_240529tracks_10.set('fieldLabels', {'name': 'no label', 'cmt': 'inline label - always visible', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
+lyr_240529tracks_10.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_240530tracks_11.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_240531tracks_12.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_240601tracks_13.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
@@ -463,7 +463,7 @@ lyr_240610tracks_21.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', '
 lyr_240611tracks_22.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_240612tracks_23.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
 lyr_240613tracks_24.set('fieldLabels', {'name': 'no label', 'cmt': 'no label', 'desc': 'no label', 'src': 'no label', 'link1_href': 'no label', 'link1_text': 'no label', 'link1_type': 'no label', 'link2_href': 'no label', 'link2_text': 'no label', 'link2_type': 'no label', 'number': 'no label', 'type': 'no label', });
-lyr_campsites_25.set('fieldLabels', {'id': 'no label', 'Camp Name': 'inline label - always visible', 'Date Start': 'inline label - always visible', 'Date End': 'inline label - always visible', 'Altitude': 'inline label - always visible', });
+lyr_campsites_25.set('fieldLabels', {'id': 'no label', 'Camp Name': 'inline label - always visible', 'Date Start': 'inline label - always visible', 'Date End': 'inline label - always visible', 'Altitude': 'no label', });
 lyr_campsites_25.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });
