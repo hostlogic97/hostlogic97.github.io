@@ -5,12 +5,12 @@ var wms_layers = [];
             'title': 'Base Map',
             //'type': 'base',
             'opacity': 1.000000,
-            
-            
+
             source: new ol.source.XYZ({
-    attributions: ' &middot; <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap</a>',
-                url: 'https://maptiles.p.rapidapi.com/en/map/v1/{z}/{x}/{y}.png?rapidapi-key=e3e414d67bmshc520a45fc66fdd7p13ed72jsn1667145654cc'
+    attributions: '&copy; Tiles: <a href="https://www.map-services.net/" target_"blank" title="Map tiles provided by Map Services">Map Services</a>, &copy; Tile data: <a href="https://www.openstreetmap.org/copyright" target="_blank" title="Map Tiles based on OpenStretMap data, provided by OpenStreetMap contributors">OpenStreetMap contributors</a>',
+                url: 'https://ghttrek.{a-c}.tile.mapcdn.net/en/map/v1/{z}/{x}/{y}.png'
             })
+            
         });
 var lyr_Topography_1 = new ol.layer.Image({
                             opacity: 1,
